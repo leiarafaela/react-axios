@@ -1,5 +1,5 @@
 {
-  "name": "fecth-api",
+  "name": "react-axios",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
