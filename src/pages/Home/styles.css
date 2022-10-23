@@ -1,0 +1,32 @@
+h2{
+  display: flex;
+  justify-content: center;
+}
+.inicio-container ul li button {
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    border: 0;
+    background: transparent;  
+  }
+  .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
+divbutton {
+    display: flex;
+    justify-content: center;
+    color: transparent;
+  }
+  #searchbar{
+    margin-left: 25%;
+     padding:8px;
+     border-radius: 12px;
+  }
+  input[type=text] {
+    width: 30%;
+    -webkit-transition: width 0.15s ease-in-out;
+    transition: width 0.15s ease-in-out;
+ }
